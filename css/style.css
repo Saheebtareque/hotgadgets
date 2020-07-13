@@ -1,0 +1,133 @@
+
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.62);
+}
+.carousel-indicators .active {
+   
+    width: 40px;
+    height: 15px;
+    border-radius: 30px;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#edba02+1,dda200+1,dbc548+100 */
+background: rgb(237,186,2); /* Old browsers */
+background: -moz-linear-gradient(left,  rgba(237,186,2,1) 1%, rgba(221,162,0,1) 1%, rgba(219,197,72,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(237,186,2,1) 1%,rgba(221,162,0,1) 1%,rgba(219,197,72,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(237,186,2,1) 1%,rgba(221,162,0,1) 1%,rgba(219,197,72,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edba02', endColorstr='#dbc548',GradientType=1 ); /* IE6-9 */
+
+}
+
+.carousel-indicators li {
+   
+    background-color:#ddd;    
+    width:25px;
+    height:15px;
+    border-radius:30px;
+    }
+    .navbar-expand-lg .navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.navbar-expand-lg {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    margin-top: 15px;
+        font-weight: 700;
+    font-size: 16px;
+}
+a:hover{
+    text-decoration: none;
+
+}
+
+.product-section{
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+.product-section .nav{
+    padding: 40px;
+}
+.product-section ul{}
+.product-section ul li{}
+.product-section ul li a{
+    color: back;
+    color: black;
+    font-size: 26px;
+    font-weight: 700;
+}
+.product-section ul li h1{
+    font-size: 34px;
+}
+.product{
+    padding-bottom: 25px;
+    padding-right: 5px;
+    padding-left: 5px;
+    box-shadow: 2px 2px 30px #463d3f57;
+    padding-top: 30px;
+}
+.product a img{}
+.product h2{
+    margin-bottom: 8px;
+    color: #151414cf;
+}
+.product p{
+    margin-top: 20px;
+}
+.product .btn-dark{}
+.product-section ul li h1 {
+    font-size: 28px;
+}
+
+ .btn:hover {
+    background:#0bc6f06b;;
+    color: black;
+}
+
+
+
+.category-section{ padding-bottom: 30px;
+
+    padding-top: 30px; }
+.category-section h1{
+    text-align: center;
+    margin-bottom: 12px;
+}
+.category-section span{
+    width: 114px;
+    display: block;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#edba02+1,dda200+1,dbc548+100 */
+background: rgb(237,186,2); /* Old browsers */
+background: -moz-linear-gradient(left,  rgba(237,186,2,1) 1%, rgba(221,162,0,1) 1%, rgba(219,197,72,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(237,186,2,1) 1%,rgba(221,162,0,1) 1%,rgba(219,197,72,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(237,186,2,1) 1%,rgba(221,162,0,1) 1%,rgba(219,197,72,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edba02', endColorstr='#dbc548',GradientType=1 ); /* IE6-9 */
+
+    height: 10px;
+    margin: auto;
+    border-radius: 30px;
+    margin-bottom: 45px;
+}
+.category-section a{
+    display: block;
+    padding: 20px 60px;
+    box-shadow: 2px 2px 30px #463d3f57;
+    margin-bottom: 27px;
+    color: #151414cf;
+}
+.category-section a img{}
+.category-section a h3{
+    margin-top: 10px;
+}
+.category-section img {}
